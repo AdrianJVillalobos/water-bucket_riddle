@@ -3,15 +3,15 @@
 
  Logical challenge made to test problem solving skills. (Chicks Gold test.)
 
-## Table of Contents  - [Project Overview](#project-overview) - [Features](#features) - [Installation](#installation) - [Usage](#usage) 
+## Table of Contents  - [Project Overview](#project-overview) - [Installation](#installation) - [Usage](#usage) - [Test Cases](#test-cases) 
 
 ## Project Overview 
 The project uses Javascript as the only programming language. 
 It has a functional programming approach and abuses `for ()` loops to find a result.
 It lacks of a proper UI for common users and for that matter the only way to test the code is to run it in your computer.
 
-## Installation 
-It doesn't require an actual process of installation because it is not using any dependencies, due to lack of UI. 
+## Installation
+Running live server from Ritwick Dey would be the most comfortable option to look at the console.log output on the browser console and given the fact that there is no need for any dependencies you won't be running any npm commands. 
 ## Usage 
 Clone the repository following this steps:
 
