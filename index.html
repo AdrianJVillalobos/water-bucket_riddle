@@ -5,10 +5,34 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Water Bucket Challenge</title>
-        <script src="scripts/App.js"></script>
+        
+        <title>Water Jug Problem</title>
+        <link rel="stylesheet" href="styles.css">
     </head>
-    
+
     <body>
         
+        <div class="container">
+            <h1>Water Jug Problem Solver</h1>
+            <div class="input-output">
+                <h2>Input</h2>
+                <form id="input-form">
+                    <label for="jugX">Jug X Capacity:</label>
+                    <input type="number" id="jugX" name="jugX" min="1" required>
+                    <label for="jugY">Jug Y Capacity:</label>
+                    <input type="number" id="jugY" name="jugY" min="1" required>
+                    <label for="desiredAmount">Desired Amount of Water:</label>
+                    <input type="number" id="desiredAmount" name="desiredAmount" min="1" required>
+                    <button class="submit">Solve</button>
+                </form>
+                <h2>Output</h2>
+                <div id="output">
+                    <!-- Output result will be displayed here -->
+                </div>
+            </div>
+        </div>
+
+
+        <script src="scripts/App.js"></script>
     </body>
 </html>

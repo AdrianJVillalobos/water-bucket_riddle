@@ -8,10 +8,10 @@
 ## Project Overview 
 The project uses Javascript as the only programming language. 
 It has a functional programming approach and abuses `for ()` loops to find a result.
-It lacks of a proper UI for common users and for that matter the only way to test the code is to run it in your computer.
+It lacks of a proper UI for common users and for that matter the only way to test the code is to run it in your computer with a local server.
 
 ## Installation
-Running live server from Ritwick Dey would be the most comfortable option to look at the console.log output on the browser console and given the fact that there is no need for any dependencies you won't be running any npm commands. 
+Running live server from Ritwick Dey in Visual Studio Code would be the most comfortable option to look at the output on the browser (or the console.log) and given the fact that there is no need for any dependencies you won't be running any npm commands. 
 ## Usage 
 Clone the repository following this steps:
 
